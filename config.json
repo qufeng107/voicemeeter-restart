@@ -1,0 +1,7 @@
+{
+  "poll_seconds": 2,
+  "settle_seconds": 7,
+  "cooldown_seconds": 15,
+  "auto_monitor_outputs": true,
+  "devices": []
+}
